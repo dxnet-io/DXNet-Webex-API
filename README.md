@@ -42,9 +42,7 @@ To do this mission, you need to have pre-requirements
 Pre-requirements
 ----------------
 
-- [ ] Create Webex account
-
-Webex account - If you do not have an account yet, go to \[Webex for Developers\]([https://developer.webex.com/](https://developer.webex.com/)) page, click on the \*\*Sign Up\*\* button and create a free account.
+- [ ] Create Webex account - If you do not have an account yet, go to \[Webex for Developers\]([https://developer.webex.com/](https://developer.webex.com/)) page, click on the \*\*Sign Up\*\* button and create a free account.
 
   
 
@@ -62,9 +60,7 @@ Webex account - If you do not have an account yet, go to \[Webex for Developers
 
   
 
-- [ ] Install python
-
-\*\*Requests library\*\* - These code samples use the Python Requests Library to simplify making REST API calls. We'll install this library into the Python virtual environment used to test the code.
+- [ ] Install python - These code samples use the Python Requests Library to simplify making REST API calls.
 
 [https://developer.cisco.com/learning/lab/collab-spark-calling-apis-from-python-itp/step/1](https://developer.cisco.com/learning/lab/collab-spark-calling-apis-from-python-itp/step/1)
 
@@ -85,8 +81,7 @@ To complete the Lab the student will have to:
 *   The student must enter the main event room via the DXNet API.
 *   And them the student must ask the DXNet bot, via API for the winner code.
 *   Once the student has obtained the code, he / she must go to the main room of the DXNet event 30º informatics days in webex teams and place the code.
-
-The Code entered will be analyzed and if it is correct the student will be informed that he / she completed the lab successfully.
+*   The Code entered will be analyzed and if it is correct, the student will be informed that he / she completed the lab successfully.
 
   
 
@@ -105,7 +100,7 @@ Attachments
 
   
 
-[ ] Webex account success
+\- \[ \] Webex account success
 
   
 
@@ -113,4 +108,4 @@ Attachments
 
   
 
-[ ] Set Post to your dxnet webex
+\- \[ \] Set Post to your dxnet webex
