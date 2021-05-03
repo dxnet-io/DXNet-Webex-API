@@ -1,8 +1,10 @@
 # DXNet-Webex-missions
 This repo is to support the missions in webex
 
-## Clone the repository
+## Steps
 
-## install depencies
+Clone the repository
 
-## Complete the TODO List
+install dependencies
+
+Complete the TODO List
