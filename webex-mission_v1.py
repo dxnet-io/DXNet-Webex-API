@@ -126,15 +126,8 @@ if __name__ == '__main__':
         sys.exit("Please check that variables ACCESS_TOKEN, have values assigned.")
 
     #TODO: Add user in room with your email - save   ROOM_ID
-    room = postUserInRoom("jose.marneca@aol.com")
-    print('room', room)
-    roomId = room['ROOM_ID']
-
 
     #TODO: ASK USER OW TO WIN
-    headers = getWebexTeamsHeader()
-    message = 'bot, can you give me the code to win?'
-    sendMsgToPerson(headers, BOT_ID, message)
 
     #TODO: GO TO YOUR WEBEX APP. IN A CONVERSATION WITH THE DXNET-LABS 'BOT' COPY THE WINNER CODE
 
