@@ -61,6 +61,7 @@ Pre-requirements
   
 
 - [ ] Install python (version 3.xx) - These code samples use the Python Requests Library to simplify making REST API calls.
+ **NOTE** if you already (install development enviroment) and python (version 3.xx) not need to do this step 
 
 [https://developer.cisco.com/learning/lab/collab-spark-calling-apis-from-python-itp/step/1](https://developer.cisco.com/learning/lab/collab-spark-calling-apis-from-python-itp/step/1)
 
