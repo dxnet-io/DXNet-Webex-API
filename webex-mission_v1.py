@@ -125,7 +125,7 @@ if __name__ == '__main__':
     if ACCESS_TOKEN==None :
         sys.exit("Please check that variables ACCESS_TOKEN, have values assigned.")
 
-    #TODO: Add user in main room event with your email and save ROOM_ID response
+    #TODO: Add user in main room event with "your email" from webex account and save ROOM_ID response
 
     #TODO: ASK BOT OW TO WIN (send message to person with your bot id (BOT_ID)
     
