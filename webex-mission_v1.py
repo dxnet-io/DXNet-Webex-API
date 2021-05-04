@@ -121,11 +121,11 @@ def postUserInRoom(email):
 
 
 if __name__ == '__main__':
-    # TODO: Pre requirements and set the ACCESS_TOKEN
+    # TODO: Pre requirements and set the ACCESS_TOKEN see(https://developer.webex.com/docs/api/getting-started) Your Personal Access Token
     if ACCESS_TOKEN==None:
         sys.exit("Please check that variables ACCESS_TOKEN, have values assigned.")
 
-    #TODO: Add user in room with your email - save   ROOM_ID
+    #TODO: Add user in room with your email - save ROOM_ID
 
     #TODO: ASK USER OW TO WIN
 
