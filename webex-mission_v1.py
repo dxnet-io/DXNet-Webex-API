@@ -121,7 +121,7 @@ def postUserInRoom(email):
 
 
 if __name__ == '__main__':
-    # TODO: Pre requirements and set the ACCESS_TOKEN see(https://developer.webex.com/docs/api/getting-started) Your Personal Access Token
+    # TODO: Pre requirements and set the ACCESS_TOKEN see(https://developer.webex.com/docs/api/getting-started) in right panel "Accounts and Authentication" see Your Personal Access Token
     if ACCESS_TOKEN==None:
         sys.exit("Please check that variables ACCESS_TOKEN, have values assigned.")
 
