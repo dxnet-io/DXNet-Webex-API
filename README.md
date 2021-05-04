@@ -77,7 +77,8 @@ TODO
 
 To complete the Lab the student will have to:
 
-*   create a webex teams account [https://teams.webex.com](https://teams.webex.com).
+*   Create a webex teams account [https://teams.webex.com](https://teams.webex.com).
+*   Clone this repo, with code do next steps
 *   The student must enter the main event room via the DXNet API.
 *   And them the student must ask the DXNet bot, via API for the winner code.
 *   Once the student has obtained the code, he / she must go to the main room of the DXNet event 30º informatics days in webex teams and place the code.
