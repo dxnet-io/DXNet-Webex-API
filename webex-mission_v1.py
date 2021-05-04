@@ -25,7 +25,7 @@ def findRoom(headers, room_name):
         if room["title"] == room_name:
             print()
             print("findRoom JSON: ", room)
-            print("MISSION: findRoom: REPLACE None WITH CODE THAT PARSES JSON TO ASSIGN ROOM ID VALUE TO VARIABLE roomId")
+
             roomId=room['id']
             break
     return(roomId)
@@ -41,7 +41,7 @@ def createRoom(headers, room_name):
         print()
         print("createRoom JSON: ", var)
         print("createRoom JSON: ", var['id'])
-        print("MISSION: createRoom: REPLACE None WITH CODE THAT PARSES JSON TO ASSIGN ROOM ID VALUE TO VARIABLE roomId.")
+
         roomId=var['id']
     return(roomId)
 
@@ -105,7 +105,7 @@ def getRoomInfo(headers, roomId):
     resp = requests.get(uri, headers=headers)
     print("Room Info: ",resp.text)
     resp = resp.json()
-    print("MISSION: Add code to parse and display details about the space.")
+
     print(resp)
 
     # MISSION: WRITE CODE TO RETRIEVE AND DISPLAY DETAILS ABOUT THE ROOM.
