@@ -60,7 +60,7 @@ Pre-requirements
 
   
 
-- [ ] Install python - These code samples use the Python Requests Library to simplify making REST API calls.
+- [ ] Install python (version 3.xx) - These code samples use the Python Requests Library to simplify making REST API calls.
 
 [https://developer.cisco.com/learning/lab/collab-spark-calling-apis-from-python-itp/step/1](https://developer.cisco.com/learning/lab/collab-spark-calling-apis-from-python-itp/step/1)
 
