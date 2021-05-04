@@ -122,13 +122,14 @@ def postUserInMainRoomEvent(email):
 
 if __name__ == '__main__':
     # TODO: Pre requirements and set the ACCESS_TOKEN see(https://developer.webex.com/docs/api/getting-started) in right panel "Accounts and Authentication" see Your Personal Access Token
-    if ACCESS_TOKEN==None:
+    if ACCESS_TOKEN==None :
         sys.exit("Please check that variables ACCESS_TOKEN, have values assigned.")
 
     #TODO: Add user in main room event with your email and save ROOM_ID response
 
     #TODO: ASK BOT OW TO WIN (send message to person with your bot id (BOT_ID)
-
+    
+    message = 'bot, can you give me the code to win?'
     #TODO: GO TO YOUR WEBEX APP. IN A CONVERSATION WITH THE DXNET-LABS 'BOT' COPY THE WINNER CODE
 
     #TODO: IN WEBEX APP GO TO MAIN ROOM EVENT (DXNET Jornadas Informática) and paste the winner code.
