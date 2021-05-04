@@ -79,7 +79,7 @@ TODO
 To complete the Lab the student will have to:
 
 *   Create a webex teams account [https://teams.webex.com](https://teams.webex.com).
-*   Get your webex token: see (https://developer.webex.com/docs/api/getting-started) in right panel "Accounts and Authentication" see "Your Personal Access Token" in page
+*   Get your webex token: see (https://developer.webex.com/docs/api/getting-started) in right panel "Accounts and Authentication" see "Your Personal Access Token" in main page, copy and save yor token.
 *   Clone this repo, with code do next steps:
 *   The student must enter the main event room via the DXNet API.
 *   And them the student must ask the DXNet bot, via API for the winner code.
