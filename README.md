@@ -7,7 +7,7 @@ This repo serve to support the webex missions
 
   
 
-Webex Missions - Is a laboratory created by DXNet, in order to make students know Cisco DEVNET [https://developer.cisco.com](https://developer.cisco.com) .
+Webex Missions - Is a laboratory created by DXNet, in order to make students know Cisco DEVNET [https://developer.cisco.com/join/DXnet21](https://developer.cisco.com/join/DXnet21) .
 
 Cisco DEVNET focuses on software development integrated with CISCO products [https://www.cisco.com/c/pt\_pt/products/index.html](https://www.cisco.com/c/pt_pt/products/index.html).
 
