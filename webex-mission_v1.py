@@ -4,7 +4,7 @@ import requests
 
 #MISSION: FILL IN THE REQUESTED DETAILS
 ACCESS_TOKEN = "" #Replace None with your access token between quotes.
-BOT_ID = "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81MDI5Mjg4YS00OWEzLTQ3MTctYjUyMy0yYWUzYzQyNjg1M2I"
+BOT_ID = ""  #Replace   with your Bot is between quotes.
 
 
 #sets the header to be used for authentication and data format to be sent.
